@@ -8,7 +8,7 @@ prev:
 
 # 97th metaPhorest Seminar: BCL / Georg Tremmel + Guest: Mariko Sakuragi
 
-Friday, October 19th, 2024, 19:00-20:40
+Friday, October 18th, 2024, 19:00-20:40
 
 ![](/public/seminars/097/097.jpg)
 
